@@ -1,4 +1,5 @@
-Examples of spme simple application codes:
+Examples of some simple application code:
 
-Coffee machine 
+Coffee Machine 
+
 Calculator
