@@ -1,1 +1,1 @@
-Simple Calculator
+Coffee machine
